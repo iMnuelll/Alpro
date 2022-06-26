@@ -1,0 +1,10 @@
+print("===Biodata===")
+nama = input("Nama: ")
+umur = (input("Umur: "))
+kelamin = input("Jenis Kelamin: ")
+Tinggi = (input("Tinggi: "))
+
+print(type(nama))
+print(type(umur))
+print(type(kelamin))
+print(type(Tinggi))

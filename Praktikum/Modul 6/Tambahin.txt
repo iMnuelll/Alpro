@@ -1,0 +1,7 @@
+Hai selamat datang di Praktikum Modul 6 coba dong tambahin text ini dengan 
+Nama,Kelas,NIM, dan Motto ya
+
+Nama : Imanuel Uneputty
+Kelas : SI-45-03
+NIM : 1202213188
+Motto : Jaya Jaya Jaya
